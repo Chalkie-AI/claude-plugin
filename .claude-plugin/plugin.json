@@ -1,0 +1,13 @@
+{
+  "name": "chalkie",
+  "displayName": "Chalkie",
+  "version": "1.0.0",
+  "description": "Create lessons, quizzes and worksheets with Chalkie, then find, preview and recreate your teaching resources.",
+  "author": {
+    "name": "Chalkie",
+    "url": "https://chalkie.ai"
+  },
+  "homepage": "https://chalkie.ai",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://chalkie.ai/privacy"
+}
