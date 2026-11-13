@@ -9,5 +9,9 @@
   },
   "homepage": "https://chalkie.ai",
   "license": "MIT",
-  "privacyPolicyUrl": "https://chalkie.ai/privacy"
+  "privacyPolicyUrl": "https://chalkie.ai/privacy",
+  "repository": "https://github.com/Chalkie-AI/claude-plugin",
+  "documentationUrl": "https://github.com/Chalkie-AI/claude-plugin#readme",
+  "supportUrl": "https://chalkie.ai/contact",
+  "termsOfServiceUrl": "https://chalkie.ai/terms"
 }
